@@ -1,0 +1,70 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.header__title {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 200%;
+    color: rgb(13, 116, 0);
+    box-shadow: 30px -10px 39px 0px #12cef0;
+    outline: solid;
+    text-shadow: 1px 2px 3px;
+
+}
+
+.button {
+    background-color: rgb(60, 185, 25);
+    color: rgb(248, 248, 248);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.backgroundButton {
+    background-color: rgb(60, 185, 25);
+    color: rgb(248, 248, 248);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.body {
+    max-width: 1500px;
+    margin: auto;
+    border: 20px;
+    border-style: groove;
+    border-color: gold;
+    background: rgb(204, 243, 231);
+    padding: 30px;
+    outline: solid gold;
+    font-family: 'Lato', sans-serif;
+    line-height: 1, 5;
+    text-align: center;
+    background-image: url(/homepage/images/scafell.jpg);
+    background-size: 1500px 2000px;
+    background-repeat: no-repeat;
+    background-position: center;
+    object-fit: contain;
+}
+
+.darkBody {
+    max-width: 1500px;
+    border-color: rgb(2, 216, 13);
+    background: rgb(144, 155, 149);
+    outline: solid rgb(2, 216, 13);
+
+}
+
+.footer {
+
+    margin: 15px auto;
+    text-align: center;
+    border-color: rgb(0, 105, 6);
+    color: white;
+
+}

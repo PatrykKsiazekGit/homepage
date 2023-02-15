@@ -1,0 +1,24 @@
+.navigation__link {
+    background-color: gold;
+    padding: 1px;
+    color: rgb(124, 0, 0);
+    text-decoration: none;
+    font-weight: bold;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 2px;
+}
+
+.navigation__link:focus {
+    outline: 2px solid currentColor;
+}
+
+.navigation__link:hover {
+    color: rgb(0, 0, 0);
+    border-bottom: 1px solid;
+    outline: none;
+
+}
+
+.navigation__link.active {
+    color: rgb(247, 7, 19)
+}
