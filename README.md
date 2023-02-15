@@ -11,4 +11,4 @@ Hi! This projects is simple website about the highest peaks in United Kingdom. P
 - JavaScript + ES6
 - BEM
 ## Link to website
-https://patryk-ksiazek.github.io/homepage/
+https://patrykksiazekgit.github.io/homepage/
