@@ -45,7 +45,7 @@ html {
     font-family: 'Lato', sans-serif;
     line-height: 1, 5;
     text-align: center;
-    background-image: url(.../images/scafell.jpg);
+    background-image: url(../images/scafell.jpg);
     background-size: 1500px 2000px;
     background-repeat: no-repeat;
     background-position: center;
